@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: lightgray;
+    margin-bottom: 260px;
+}
+span {
+    font-weight: bold;
+}
+.logo {
+    margin: auto;
+    display: block;
+}
+
+h2 {
+    text-transform: uppercase;
+    background-color: lightgray;
+}
+.tab {
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 6px;
+}
+.primeraLinea{
+    margin-top: 6px;
+    margin-bottom: 0px;
+}
+footer {
+    background-color: blue;
+   
+}
+footer p {
+    text-align: right;
+}
+
+
